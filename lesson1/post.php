@@ -18,5 +18,6 @@ I want to see how I can use git pull in the future
 </head>
 <body>
     <h1>Git practise</h1>
+    <h2>add git extension</h2>
 </body>
 </html>
