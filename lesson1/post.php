@@ -19,5 +19,6 @@ I want to see how I can use git pull in the future
 <body>
     <h1>Git practise</h1>
     <h2>add git extension</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam repellat incidunt quibusdam qui magni aut neque doloribus laudantium officia harum?</p>
 </body>
 </html>
